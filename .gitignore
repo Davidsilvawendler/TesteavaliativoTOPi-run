@@ -1,0 +1,40 @@
+IlluminatedCloud /
+.idéia
+
+src / aplicações
+src / appMenus
+src / email
+src / grupos
+src / homePageComponents
+src / homePageLayouts
+src / labels
+src / objetos
+src / permissionsets
+src / perfis
+src / quickActions
+src / remoteSiteSettings
+src / reports
+src / reportTypes
+src / funções
+src / configurações
+src / sharingRules
+src / tabs
+src / workflows
+src / documentos
+config /
+* .sublime-project
+* .sublime-workspace
+depurar /
+* .iml
+# * .yml
+force.json
+# package.xml
+build.properties
+.vim-force.com /
+\. vscode /
+
+sfdx-project \. json
+
+\. sfdx
+
+\. forceCode
