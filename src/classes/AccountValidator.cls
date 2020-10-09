@@ -26,7 +26,7 @@ public class AccountValidator {
 
         for (Account account : accounts) {
 
-            if (  account.cnpj__c ) ) {
+            if (validator.isCPF( account.cpf__c ) )  {
                 account.cnpj__c.addError('CNPJ Invalido');
             }     
 
