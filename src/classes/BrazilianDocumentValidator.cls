@@ -1,5 +1,5 @@
 /**
- * @autor: David Augusto
+ * @author: ercarval - topi
  */
 public class BrazilianDocumentValidator {
 
